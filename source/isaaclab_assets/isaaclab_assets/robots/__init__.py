@@ -17,7 +17,11 @@ from .cartpole import *
 from .cassie import *
 from .fourier import *
 from .franka import *
+<<<<<<< HEAD
 from .galbot import *
+=======
+from .boson import *
+>>>>>>> 2b48cba03b (Add Boson cell model and environment; register for goal-reaching task in IsaacLab)
 from .humanoid import *
 from .humanoid_28 import *
 from .kinova import *
